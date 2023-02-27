@@ -3,8 +3,8 @@
 - 💼 A procura do primeiro emprego
 - 💻 Cursando Técnico Desenvolvimento de Sistemas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHenriqueas&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenriqueas&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHenriqueas&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenriqueas&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
