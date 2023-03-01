@@ -11,6 +11,13 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+  <h2>📝 Certificados 📝</h2>
+ <a href="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png">
+  <img width="10%" height="10%"  src="https://www.credly.com/badges/e40fd90e-62c0-48dc-9206-ea06119343fe"/>
+  
+   <a href="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png">
+  <img width="10%" height="10%"  src="https://www.credly.com/earner/earned/badge/9ad06ed1-39e2-434c-b4d5-9dc43ce678fc"/>
   
   ##
  
