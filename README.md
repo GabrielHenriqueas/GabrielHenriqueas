@@ -12,7 +12,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-  <h2>📝 Certificados 📝</h2>
+  <h2> BADGES </h2>
  <a href="https://www.credly.com/badges/e40fd90e-62c0-48dc-9206-ea06119343fe">
   <img width="20%" height="20%"  src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/>
   
@@ -25,10 +25,4 @@
   
   <a href="https://www.linkedin.com/in/gabriel-silva-20303b202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
-
-</div>
- 
-  ![Snake animation](https://github.com/GabrielHenriqueas/GabrielHenriqueas/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
