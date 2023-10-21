@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </div>
 
 <div style="display: inline_block">
-  <h2> Certifications 🏆</h2>
+  <h2> Certificações 🏆</h2>
 
   <div>
   <a href="https://www.credly.com/badges/69881f94-a7e0-4a5e-973a-fefac664bb8e">
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
   </div>
 
 <div style="display: inline_block">
-  <h2> Badges 🏅</h2>
+  <h2> Insígnias 🏅</h2>
 
   <div>
   <a href="https://www.credly.com/badges/e40fd90e-62c0-48dc-9206-ea06119343fe">
