@@ -64,6 +64,13 @@ Here are some ideas to get you started:
   <h2> Certificações 🏆</h2>
 
   <div>
+
+  <a href="https://www.credly.com/badges/af353054-3f6c-4e37-af25-402c0d2ce9e2">
+  <img width="20%" height="20%"  src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
+
+  <a href="https://www.credly.com/badges/a509749f-7ad6-453c-a5a6-620de3fbc810">
+  <img width="20%" height="20%"  src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
+    
   <a href="https://www.credly.com/badges/69881f94-a7e0-4a5e-973a-fefac664bb8e">
   <img width="20%" height="20%"  src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png"/>
   </div>
