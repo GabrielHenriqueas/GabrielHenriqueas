@@ -35,11 +35,10 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHenriqueas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenriqueas&layout=compact&langs_count=16&theme=transparent"/>
   </div>
-  
+
+<br>
 <div style="display: inline_block">
- <h2> Tecnologias 💻 </h2>
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+ <h2> Tecnologias 💻 </h2>  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -49,16 +48,28 @@ Here are some ideas to get you started:
   <img align="center" alt="SQL-Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
 
+<br>
+<div style="display: inline_block">
+  <h2> Ferramentas ⚙️</h2>
+    <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="VsCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Visual-Studio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+</div>
+
+<br>
 <div style="display: inline_block">
  <h2> Formação Acadêmica 🎓 </h2>
- 
- 📌 Cursando Tecnólogo em Segurança da Informação - FATEC São Caetano do Sul "Antonio Russo" (conclusão em jul/2024)
- 
- 📌 Cursando Técnico em Desenvolvimento de Sistemas - SENAI de Informática "Paulo Antonio Skaf" (conclusão em dez/2024)
- 
- 📌 Técnico em Redes de Computadores - SENAI de Informática "Paulo Antonio Skaf"
- 
- 📌 Técnico em Eletroeletrônica - SENAI Brás "Roberto Simonsen"
+ <br>
+
+ DESCRIÇÃO   | INSTITUIÇÃO   | ANO | CURSO
+--------- | --------- | ------ | ------
+🏅 Segurança da Informação | FATEC São Caetano do Sul "Antonio Russo" | Conclusão em JUL/2024 | Tecnólogo 
+🏅 Desenvolvimento de Sistemas | SENAI de Informática "Paulo Antonio Skaf" | Conclusão em DEZ/2024 | Técnico
+🏅 Redes de Computadores | SENAI de Informática "Paulo Antonio Skaf" | Concluido em DEZ/2020 | Técnico
+🏅 Eletroeletrônica | SENAI Brás "Roberto Simonsen" | Concluido em DEZ/2017 | Técnico
+
+<br>
 </div>
 
 <div style="display: inline_block">
