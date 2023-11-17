@@ -32,8 +32,9 @@ Here are some ideas to get you started:
 ##
   <div align="center">
   <a href="https://github.com/GabrielHenriqueas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHenriqueas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenriqueas&layout=compact&langs_count=16&theme=transparent"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHenriqueas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenriqueas&layout=compact&langs_count=16&theme=transparent"/>
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=GabrielHenriqueas&amp;theme=transparent">
   </div>
 
 <br>
@@ -44,8 +45,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SQL-Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
 
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="VsCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="Visual-Studio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+    <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg">
 </div>
 
 <br>
