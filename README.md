@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 ##
   <div align="center">
   <a href="https://github.com/GabrielHenriqueas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHenriqueas&show_icons=true&theme=transparent&include_all_commits=true&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenriqueas&layout=compact&langs_count=16&theme=transparent"/>
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHenriqueas&show_icons=true&theme=transparent&include_all_commits=true&count_private=false"/> -->
     <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=GabrielHenriqueas&amp;theme=transparent">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenriqueas&layout=compact&langs_count=16&theme=transparent"/>
   </div>
 
 <br>
