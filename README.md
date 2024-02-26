@@ -106,6 +106,9 @@ Here are some ideas to get you started:
   
   <a href="https://www.credly.com/badges/9ad06ed1-39e2-434c-b4d5-9dc43ce678fc">
   <img width="20%" height="20%"  src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png"/>
+  
+  <a href="https://www.credly.com/badges/1ff25aaa-62b7-47df-858c-8e34ab5cbaa3">
+  <img width="20%" height="20%"  src="https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png"/>
 
   <a href="https://www.credly.com/badges/8af1cce5-4567-4477-8b86-6c87a514e5c4">
   <img width="20%" height="20%"  src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"/>
