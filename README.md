@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=1500&pause=750&center=true&vCenter=true&multiline=true&width=642&height=130&lines=Ol%C3%A1+DEVs%2C+sejam+bem-vindos!;Meu+nome+%C3%A9+Gabriel;e+este+%C3%A9+meu+perfil+no+GitHub!;%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" align="center" alt="Typing SVG" /></a>
 
-  <img src="https://github.com/GabrielHenriqueas/GabrielHenriqueas/blob/main/images/shiny-charizard.gif" min-width="200px" max-width="200px" width="200px" align="center" alt="Charizard">
+  <img src="https://github.com/GabrielHenriqueas/GabrielHenriqueas/blob/main/images/charizard.gif" min-width="200px" max-width="200px" width="200px" align="center" alt="Charizard">
 </div>
 
 <div align="center">
