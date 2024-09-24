@@ -117,15 +117,9 @@ Here are some ideas to get you started:
 
   <a href="https://www.credly.com/badges/8af1cce5-4567-4477-8b86-6c87a514e5c4">
   <img width="20%" height="20%"  src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"/>
-  </div>
 
-  <div>
-    <h2> Trilha Analista de Cibersegurança Júnior </h2>
-    <div>
-    <a href="https://www.credly.com/badges/03a736db-e641-4e07-80b9-ce1ed718286e">
-    <img width="20%" height="20%"  src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"/>
-    </div>
-    
+  <a href="https://www.credly.com/badges/03a736db-e641-4e07-80b9-ce1ed718286e">
+  <img width="20%" height="20%"  src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"/>
   </div>
   
 </div>
